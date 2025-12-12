@@ -4,7 +4,7 @@ This project presents an end-to-end Inventory & Supply Chain Analytics Dashboard
 
 **🚀 **Project Summary****
 
-During this project (Dec ’24 – Jan ’25), I developed a complete Power BI solution using 1,200+ supply chain records. The dashboard provides real-time insights into inventory utilization, stock turnover, transportation costs, and backorders — helping stakeholders make faster, data-driven decisions.
+I developed a complete Power BI solution using 1,200+ supply chain records. The dashboard provides real-time insights into inventory utilization, stock turnover, transportation costs, and backorders — helping stakeholders make faster, data-driven decisions.
 
 **🗂️ **Key Features****
 
